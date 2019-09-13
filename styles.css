@@ -1,0 +1,62 @@
+h2 {
+    color: Black;
+    border: 2px solid orange;
+}
+
+body {
+    border: 1px orange;
+    border: round;
+    background: linear-gradient(to top right, #33ccff 0%, #339966 100%);
+    background-repeat: no-repeat;
+}
+
+p.small {
+    font-variant: small-caps;
+}
+
+
+img {
+    border-right: 4px skyblue;
+    display: inline-block;
+}
+
+.one {
+    border-radius: 10%;
+    height: 70px;
+    width=70px
+}
+
+.two {
+    padding-left: 40px;
+}
+
+a {
+    padding-left: 100px;
+}
+
+h4 {
+    color: #cdf9ff;
+    line-height: 3px;
+    margin-top: 10px;
+    text-align: right;
+}
+
+u,
+h3 {
+    background: linear-gradient(to top right, #33ccff 0%, #339966 100%);
+    color: #CDF9FF;
+}
+
+h3 {
+    border: 2px solid orange;
+}
+
+.skill li {
+    display: inline-block;
+    padding-left: 20px;
+    vertical-align: middle;
+}
+
+span {
+    display: inline-block;
+}
