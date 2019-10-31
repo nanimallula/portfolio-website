@@ -1,0 +1,163 @@
+    .tac {
+        font-size: small;
+        font-family: Courier New;
+        text-align: center;
+        margin-top: 10px;
+        border-bottom: 1px solid black;
+    }
+
+    .tac1 {
+        text-align: center;
+    }
+
+    .alignment {
+        text-align: center;
+        margin-top: 15px;
+        border-bottom: 1px solid black;
+    }
+
+    .alignments {
+        text-align: center;
+        border-bottom: 1px solid black;
+    }
+
+    .bg {
+        background-color: black;
+    }
+
+
+    .bars {
+        font-size: x-large;
+        color: #ffffff;
+    }
+
+    .bgcol {
+        background-color: #f8f8f8;
+    }
+
+    .browse {
+        padding-bottom: 30px;
+    }
+
+    .background-col {
+        background-color: #e6e6e6;
+        text-align: center;
+    }
+
+    .btback {
+        background-color: #cccccc;
+        color: #000000;
+        margin-bottom: 20px;
+    }
+
+    .brdbt {
+        border-bottom: 1px solid black;
+        margin-top: 20px;
+    }
+
+    .card1 {
+        margin: 40px 6PX 6PX 6PX;
+        box-shadow: 0px 0px 1px 1px grey;
+    }
+
+    .cardmd1 {
+        margin: 40px 20PX 40PX 40PX;
+        box-shadow: 0px 0px 1px 1px grey;
+    }
+
+    .card2 {
+        margin: 15px 6PX 6PX 6PX;
+        box-shadow: 0px 0px 1px 1px grey;
+
+    }
+
+    .card3 {
+        margin: 15px 6PX 6PX 6PX;
+        box-shadow: 0px 0px 1px 1px grey;
+    }
+
+    .dis {
+        display: inline-block;
+        color: #4da6ff;
+        background-color: #e6f2ff;
+        padding: 5px;
+        font-size: small;
+    }
+
+    .dis1 {
+        display: inline-block;
+        color: #4da6ff;
+        background-color: #e6f2ff;
+        font-size: small;
+    }
+
+    .displ {
+        display: inline-block;
+        padding: 10px;
+    }
+
+    .featured {
+        margin-top: 30px;
+        font-size: x-large;
+    }
+
+
+    .load {
+        color: #4da6ff;
+        text-align: center;
+        margin-top: 30px;
+        border: 1px solid black;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+    .marbt {
+        margin-bottom: -1px;
+    }
+
+    .matter {
+        font-size: small;
+    }
+
+    .matter1 {
+        font-size: small;
+        margin-bottom: 4px;
+    }
+
+    .matter2 {
+        font-size: 15px;
+    }
+
+    .mobile-git {
+        width: 40px;
+        background-color: #fff;
+        border-radius: 50%;
+    }
+
+    .open {
+        height: 70px;
+        width: 70px;
+    }
+
+    .padd {
+        padding-top: 20px;
+        padding-bottom: 0px;
+    }
+
+    .small {
+        width: 40px;
+    }
+
+    .top {
+        padding-top: 30px;
+    }
+
+    h5 {
+        text-align: center;
+        color: #3399FF;
+    }
+
+    .brd3 {
+        border: 1px solid black;
+    }
+    
