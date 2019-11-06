@@ -1,0 +1,53 @@
+* {
+ border: 1px solid black;
+}
+
+.align-right {
+ text-align: right;
+}
+
+.align-center {
+ text-align: center;
+}
+
+.link-color {
+ color: grey;
+}
+
+.margin-nav {
+ margin-top: 20px;
+ border-bottom: 2px solid grey;
+}
+
+.bg {
+ background-color: #f2f2f2;
+}
+
+.gmail-img {
+ width: 50px;
+}
+
+.display-nav {
+ display: inline-block;
+ font-size: 30px;
+}
+
+.display-foot {
+ display: inline-block;
+ margin-right: 10px;
+}
+
+.ul-s {
+ list-style-type: none;
+ padding: 0px;
+
+}
+
+.footer {
+ background-color: grey;
+ padding-top: 20px;
+ padding-bottom: 20px;
+ padding-left: 10px;
+ padding-right: 10px;
+
+}
