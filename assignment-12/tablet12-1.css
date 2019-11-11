@@ -1,0 +1,26 @@
+* {
+    border: 1px solid orange;
+}
+
+.landing-section-tablet {
+    padding-left: 10px;
+    padding-right: 20px;
+    background-color: grey;
+}
+
+.landing-section-tablet-content {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.left-item {
+
+    display: inline-block;
+    width: 45%;
+}
+
+.right-item {
+
+    display: inline-block;
+    width: 45%;
+}
