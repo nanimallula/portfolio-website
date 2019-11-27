@@ -1,0 +1,43 @@
+.border {
+    border-bottom: 1px solid black;
+    text-shadow: 2px 2px lightblue;
+}
+
+@media screen and (min-width:768px) {
+    .inline {
+        width: 48%;
+        display: inline-block;
+
+    }
+    .display {
+        width: 48%;
+        display: inline-block;
+    }
+    .application {
+        width: 48%;
+        display: inline-block;
+    }
+}
+
+@media screen and (min-width:992px) {
+    .border {
+        border-bottom: 1px solid black;
+        text-shadow: 2px 2px orange;
+    }
+    .inline {
+        width: 33%;
+        display: inline-block;
+
+    }
+    .application {
+        display: none;
+    }
+    .display {
+        width: 33%;
+        display: inline-block;
+    }
+    .color {
+        color: blue;
+
+    }
+}

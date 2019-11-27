@@ -1,0 +1,45 @@
+.layout {
+    padding-left: 6%;
+    padding-right: 6%;
+    padding-top: 1%;
+    padding-bottom: 2%;
+}
+
+.approach {
+    border-bottom: 1px solid lightgrey;
+    text-align: center;
+}
+
+.creating-workforce {
+    display: none;
+}
+
+.building-global-startups {}
+
+.developing-world--class-products {}
+
+
+@media screen and (min-width:768px) {
+    .approach {
+        border-bottom: 1px solid lightgrey;
+        text-align: center;
+    }
+    body {
+        font-size: 0px;
+    }
+    .creating-workforce {
+        display: inline-block;
+        width: 48%;
+        margin-right: 10px;
+    }
+    .building-global-startups {
+        display: none;
+
+    }
+    .developing-world--class-products {
+        display: inline-block;
+        width: 48%;
+        margin-left: 10px;
+
+    }
+}

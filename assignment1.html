@@ -9,10 +9,55 @@
         <script src="../bootstrap/popper.min.js"></script>
         <script src="../bootstrap/bootstrap.min.js"></script>
         <link rel="stylesheet" type="text/css" href="assignment1.css" />
+        <style>
+            .grid-item {
+                width: 100%;
+                padding: 10%;
+                height: 100px;
+                overflow: auto;
+            }
+
+            .grid-item-content {
+                background-color: blue;
+                height: 100%;
+                border: 1px solid orange;
+            }
+
+            @media(min-width:768px) {
+                .grid-item {
+                    width: 49%;
+                    display: inline-block;
+                    padding: 3%;
+                }
+            }
+
+            @media(min-width:992px) {
+                .grid-item {
+                    width: 24%;
+                    display: inline-block;
+                    padding: 3%;
+                }
+            }
+        </style>
     </head>
 
     <body>
+        <div class="grid-item">
+            <div class="grid-item-content"></div>
+        </div>
+        <div class="grid-item">
+            <div class="grid-item-content"></div>
+        </div>
+        <div class="grid-item">
+            <div class="grid-item-content"></div>
+        </div>
+        <div class="grid-item">
+            <div class="grid-item-content"></div>
+        </div>
+        <div class="center">
 
+
+        </div>
     </body>
 
 </html>

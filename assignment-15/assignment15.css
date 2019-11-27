@@ -1,0 +1,27 @@
+.layout {
+    padding-left: 6%;
+    padding-right: 6%;
+    padding-top: 1%;
+    padding-bottom: 2%;
+}
+
+.creating-workforce {}
+
+.Developing-world-class-prodcts {}
+
+
+@media screen and (min-width:768px) {
+    .approach {
+        border-bottom: 1px solid lightgrey;
+    }
+    .creating-workforce {
+        display: inline-block;
+        width: 48%;
+        margin-right: 10px;
+    }
+    .Developing-world-class-prodcts {
+        display: inline-block;
+        width: 48%;
+        margin-left: 10px;
+    }
+}
